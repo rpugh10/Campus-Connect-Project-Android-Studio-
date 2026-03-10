@@ -3,6 +3,26 @@
     <string name="home">Home</string>
     <string name="events">Events</string>
     <string name="Connect">Connect</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome to Campus Connect</string>
+    <string name="welcomeMessage">Stay Connected with the lastest campus updates, events,
+    and resources. Explore student services, upcoming workshops, and community highlights all in one place!</string>
+
+    <string name="eventHeader">Upcoming Campus Events</string>
+    <string name="gradText">Graduation Gala- Dec 12 \n Celebrate the achievements of our graduating
+    students with music and dinner</string>
+    <string name="cultureText">Cultural Dest - Jan 20 \n Experience global cultures through food, art, and
+    performance</string>
+    <string name="careerText">Career Fair - Feb 5 \n Meet recruiters from top companies and
+    exploring internship opportunities</string>
+    <string name="intramuralText">Intramural Finals - Mar 2 \n Support your favorite team in the annual
+    campus sports championship</string>
+
+    <string name="contactHeader">Contact Us</string>
+    <string name="Address">Campus Connect Support Center \n
+    Thompson Rivers University \n
+    805 TRU Way, Kamloops, BC</string>
+    <string name="email">Email: support@campusconnect.ca\n
+    Phone: +1 (250) 555-5678</string>
+    <string name="hours">Office Hours: Mon-Fri, 9AM - 4PM</string>
+    <string name="followUs">Follow us: \n Instagram: @CampusConnectTRU \n Facebook: /CampusConnectTRU</string>
 </resources>

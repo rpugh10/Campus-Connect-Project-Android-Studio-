@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="tabHeight">4dp</dimen>
+    <dimen name="welcomeTextSize">25sp</dimen>
+    <dimen name="welcomeMargin">15dp</dimen>
+    <dimen name="welcomeMessageTextSize">20sp</dimen>
+
+    <dimen name="eventTextMargin">30dp</dimen>
+    <dimen name="images">24dp</dimen>
 </resources>
